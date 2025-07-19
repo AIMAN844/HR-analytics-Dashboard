@@ -48,13 +48,6 @@ The main goal of this dashboard is to help HR teams understand:
 
 ---
 
-## 📷 Preview
-
-> *(Attach an image or GIF of your dashboard here)*  
-> ![Dashboard Screenshot](images/hr_dashboard_preview.png)
-
----
-
 ## 📥 How to Use
 
 1. Download or clone the repo
